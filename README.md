@@ -1,7 +1,7 @@
 # NEJ Todomvc
 ![NEJ Todomvc](https://i.imgur.com/BezCwcR.jpg)
 
-Nej.js + todomvc
+This is a todomvc using Nej.js, you can view the demo [HERE](https://dreamy-hamilton-141195.netlify.com/), or download the source code following the below steps.
 
 ## Getting Started
 
@@ -14,6 +14,7 @@ npm install
 npm start
 ```
 
+Then you should be able to see the following messages:
 ![npm start](https://i.imgur.com/YKE7Pqq.jpg)
 
 ## Structure
