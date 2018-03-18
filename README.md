@@ -15,6 +15,7 @@ npm start
 ```
 
 Then you should be able to see the following messages:
+
 ![npm start](https://i.imgur.com/YKE7Pqq.jpg)
 
 ## Structure
