@@ -1,4 +1,7 @@
 # NEJ Todomvc
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/calpa/nej-todomvc.svg)](https://greenkeeper.io/)
+
 ![NEJ Todomvc](https://i.imgur.com/BezCwcR.jpg)
 
 This is a todomvc using Nej.js, you can view the demo [HERE](https://dreamy-hamilton-141195.netlify.com/), or download the source code following the below steps.
